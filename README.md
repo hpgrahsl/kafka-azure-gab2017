@@ -1,4 +1,4 @@
-#Kafka on Azure HDInsight
+# Kafka on Azure HDInsight
 
 Das Repository beinhaltet alle Code Beispiele die ich in meiner Session am [Global Azure Bootcamp 2017](https://coding-club-linz.github.io/global-azure-bootcamp-2017/) in Linz (AT) bei den Live-Demos verwendet habe.
 
